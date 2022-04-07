@@ -1,8 +1,16 @@
 
-∆  pkg update -y
+∆   pkg update -y
 
-∆  pkg upgrade -y
+∆   pkg upgrade -y
 
-∆pkg install python git
+∆  pkg install python git
 
-stdiomask
+∆  pip install requests
+
+∆  pip install mechanize
+
+∆  pip install stdiomask
+
+∆  pip install bs4
+
+
