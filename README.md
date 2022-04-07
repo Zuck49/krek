@@ -13,7 +13,7 @@
 
 •  pip install bs4
 
-•  git clone https://https://github.com/Zuck49/krek
+•  git clone https://github.com/Zuck49/krek
 
 •  cd krek
 
