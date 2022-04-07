@@ -13,4 +13,8 @@
 
 ∆  pip install bs4
 
+∆  git clone https://github.com/BoyCot4444/krek
 
+∆  cd krek
+
+∆  python crackig.py
