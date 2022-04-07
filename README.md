@@ -1,20 +1,20 @@
 
-∆   pkg update -y
+•   pkg update -y
 
-∆   pkg upgrade -y
+•   pkg upgrade -y
 
-∆  pkg install python git
+•  pkg install python git
 
-∆  pip install requests
+•  pip install requests
 
-∆  pip install mechanize
+•  pip install mechanize
 
-∆  pip install stdiomask
+•  pip install stdiomask
 
-∆  pip install bs4
+•  pip install bs4
 
-∆  git clone https://github.com/BoyCot4444/krek
+•  git clone https://https://github.com/Zuck49/krek
 
-∆  cd krek
+•  cd krek
 
-∆  python crackig.py
+•  python crackig.py
