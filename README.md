@@ -3,7 +3,9 @@
 
 •   pkg upgrade -y
 
-•  pkg install python git
+•  pkg install python 
+
+•  pkg install git
 
 •  pip install requests
 
@@ -13,7 +15,7 @@
 
 •  pip install bs4
 
-•  git clone https://github.com/Zuck49/krek
+•  git clone  https://github.com/Zuck49/krek
 
 •  cd krek
 
