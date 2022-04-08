@@ -1,4 +1,9 @@
-Sc [ig ]
+#Download termux jangan di google pleystor karena itu versi lama 
+#sc • lu binggung kenapa kaga dapat hasil? Itu si tergantung sama target nya co 
+
+
+
+
 
 
 
@@ -31,3 +36,13 @@ Sc [ig ]
 •  cd krek
 
 •  python crackig.py
+
+
+
+
+
+
+
+
+
+
